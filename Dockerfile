@@ -1,4 +1,4 @@
-#IMAGE: Get the base image for Liberty
+#IMAGE: Get the base image for Liberty Tom Was Here
 FROM websphere-liberty:webProfile7
 
 # Add MariaDB Type 4 JDBC driver
